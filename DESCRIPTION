@@ -1,7 +1,7 @@
 Package: BiocCDNM
 Date: 2022-10-01
 Title: A short course on genomic data science with Bioconductor
-Version: 0.0.0
+Version: 0.0.1
 Authors@R: 
     c(person(
         "Vincent", "Carey", role = c("aut", "cre"),
@@ -22,3 +22,5 @@ LazyData: true
 VignetteBuilder: knitr
 biocViews: Infrastructure
 RoxygenNote: 7.1.1
+URL: https://github.com/vjcitn/BiocCDNM
+BugReports: https://github.com/vjcitn/BiocCDNM/issues
