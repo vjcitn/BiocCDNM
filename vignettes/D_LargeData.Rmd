@@ -1,0 +1,37 @@
+---
+title: "Large data concepts for genomic data science at CDNM"
+author: "Vincent J. Carey, stvjc at channing.harvard.edu"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Large data concepts for genomic data science at CDNM}
+  %\VignetteEncoding{UTF-8}
+output:
+  BiocStyle::html_document:
+    highlight: pygments
+    number_sections: yes
+    theme: united
+    toc: yes
+---
+
+# Use cases
+
+## TOPMed transcriptomics
+
+## GWAS archives, OpenGWAS, gwaslake
+
+## recount3: all RNA-seq studies
+
+## GenomicSuperSignatures: reducing to key axes of variation
+
+## Multiplex imaging
+
+# Tools
+
+## RDBMS
+
+## HDF5
+
+## HSDS
+
+## Zarr

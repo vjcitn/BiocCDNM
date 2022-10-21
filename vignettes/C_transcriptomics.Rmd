@@ -1,0 +1,25 @@
+---
+title: "Basic transcriptomics: RNA-seq experiments and their analysis"
+author: "Vincent J. Carey, stvjc at channing.harvard.edu"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Basic transcriptomics: RNA-seq experiments and their analysis}
+  %\VignetteEncoding{UTF-8}
+output:
+  BiocStyle::html_document:
+    highlight: pygments
+    number_sections: yes
+    theme: united
+    toc: yes
+---
+
+# Upstream: dealing with FASTQ and sequencer QC
+
+# Alignments: BAM, Rsamtools, GenomicFiles
+
+# Midstream: handling counts, SummarizedExperiment
+
+# Quantification vs. alignment: Salmon, tximport
+
+# Downstream: Differential expression

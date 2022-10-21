@@ -1,0 +1,29 @@
+---
+title: "Genomes and their annotation in Bioconductor"
+author: "Vincent J. Carey, stvjc at channing.harvard.edu"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Genomes and their annotation in Bioconductor}
+  %\VignetteEncoding{UTF-8}
+output:
+  BiocStyle::html_document:
+    highlight: pygments
+    number_sections: yes
+    theme: united
+    toc: yes
+---
+
+# Biostrings for nucleic and amino acid sequences
+
+# BSgenome: complete genomes for model organisms
+
+## BSgenome.Hsapiens.*
+
+## GenomeInfoDb
+
+# TxDb: gene models 
+
+# GO, KEGG, Reactome, ...: Gene sets, pathways
+
+# Variants, dbSNP

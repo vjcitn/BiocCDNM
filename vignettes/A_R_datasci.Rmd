@@ -1,0 +1,35 @@
+---
+title: "R for data science: overview for CDNM"
+author: "Vincent J. Carey, stvjc at channing.harvard.edu"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{R for data science: overview for CDNM}
+  %\VignetteEncoding{UTF-8}
+output:
+  BiocStyle::html_document:
+    highlight: pygments
+    number_sections: yes
+    theme: united
+    toc: yes
+---
+
+# Managing your R environment
+
+# Functions and documentation
+
+# R packages
+
+## CRAN and CRAN-style Repositories
+
+## Dependencies
+
+## Making your own package
+
+### Components
+
+### Testing
+
+### Communications: tell the world with pkgdown
+
+# Interactive apps with shiny
