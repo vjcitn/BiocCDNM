@@ -20,6 +20,13 @@ output:
 
 ## GWAS archives, OpenGWAS, gwaslake
 
+DWv2 representation of GWAS?
+Give me a GWAS, a gene and I give you at a minimum SNP ids, locations and p-values
+
+## eQTL studies
+
+DWv2 representation of eQTLs ... 'phenotype' is expression of a gene
+
 ## recount3: all RNA-seq studies
 
 ## GenomicSuperSignatures: reducing to key axes of variation
